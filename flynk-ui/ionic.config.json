@@ -1,0 +1,7 @@
+{
+  "name": "flynk-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

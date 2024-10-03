@@ -1,0 +1,11 @@
+{
+  "name": "flynk",
+  "version": "1.0.0",
+  "description": "i think its a ... i think uhhh .. i think its a carrot. uhhh i dont know about carrots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lesther Bualan",
+  "license": "ISC"
+}
