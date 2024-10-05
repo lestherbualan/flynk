@@ -1,6 +1,10 @@
-/flynk-ui/node_modules
-/flynk-server/node_modules
+/flynk-identity-provider/node_modules
+/flynk-identity-provider/dist
 
+/flynk-server/node_modules
+/flynk-server/dist
+
+/flynk-ui/node_modules
 /flynk-ui/dist
 /flynk-ui/tmp
 /flynk-ui/out-tsc
